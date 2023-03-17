@@ -15,7 +15,6 @@ pip install numpy matplotlib opencv-python-headless
 
 Usage:
 
-Save the following code as image_compression.py
 Run the script with the desired image file and compression ratio: python image_compression.py <image_file> <compression_ratio>
 View the original and compressed images along with the compression statistics.
 
